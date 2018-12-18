@@ -1,3 +1,3 @@
 # Travelville
 
-Travelville -  A travel agency website/theme  (Carousel slider, autocomplete, scrolling navigation)
+Travelville -  A travel agency website/theme
